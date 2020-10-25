@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Quinn Lanners
+description: Data and math enthusiast with a desire to explore and create in the field of machine learning.
+contact: lannersq@gmail.com
+---
 
-You can use the [editor on GitHub](https://github.com/qlanners/qlanners.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Durham, NC | lannersq@gmail.com | [LinkedIn](https://www.linkedin.com/in/quinn-lanners/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+- [Research & Projects](pages/research_and_projects.html)
+- [Resume](quinn_resume.pdf)
+- [Tutorial Posts](https://medium.com/@lannersq)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+# About Me
+My background is in mathematics, with a bachelors degree in applied math from [LMU](https://www.lmu.edu/) in Los Angeles. During my undergraduate studies, I became increasingly interested in machine learning and NLP in particular. I studied the theory and math behind the concepts of deep learning and recurrent neural networks. Since graduating, I have become a strong full-stack machine learning engineer, with experience in data collection, cleaning and analysis along with building, testing, deploying, and serving machine learning models.
 
-# Header 1
-## Header 2
-### Header 3
+I am hoping to pursue further education in the field of machine learning, with a desire to research and develop machine learning solutions rather than simply implement them.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qlanners/qlanners.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mountain Biking in New Zealand |  My lab puppy, Piper
+:-----------------------------:|:-------------------------:
+![](images/nz_bike.png)       |  ![](images/piper_pup.png)
