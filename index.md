@@ -5,7 +5,7 @@ description: Data and math enthusiast with a desire to explore and create in the
 contact: lannersq@gmail.com
 ---
 
-Durham, NC | lannersq@gmail.com | [LinkedIn](https://www.linkedin.com/in/quinn-lanners/)
+Durham, NC | lannersq@gmail.com | [Git](https://github.com/qlanners) | [LinkedIn](https://www.linkedin.com/in/quinn-lanners/)
 
 ---
 
