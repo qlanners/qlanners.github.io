@@ -3,7 +3,12 @@ layout: default
 title: Research and Projects
 description: Collection of my research and independent projects.
 ---
-[Home](../index.html)
+- [Home](../index.html)
+- [Education & Work Experience](education_and_work_experience.html)
+- [Resume](../quinn_resume.pdf)
+- [Blog](https://medium.com/@lannersq)
+- [Git](https://github.com/qlanners)
+- [LinkedIn](https://www.linkedin.com/in/quinn-lanners/)
 
 ---
 
@@ -18,7 +23,7 @@ This work was presented first to LMU faculty and staff and later at [Optum's Min
 
 ## Rental Rundown [<font size="2">Website</font>](https://rental-rundown.herokuapp.com)
 <img src="{{site.url}}/images/rental_rundown.png" style="display: block; margin: auto;" />
-Building a website to create customizable rental property analysis reports. The website is still in working progress and is only being hosted on a development level server, so it may take a bit for the page to initially render.
+Building a [website](https://rental-rundown.herokuapp.com) to create customizable rental property analysis reports. The website is still in working progress and is only being hosted on a development level server, so it may take ~15-20 seconds for the page to initially render.
 
 * * *
 
