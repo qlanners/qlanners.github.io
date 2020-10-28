@@ -22,6 +22,10 @@ My background is in mathematics, with a bachelors degree in applied math from [L
 
 I am hoping to pursue further education in the field of machine learning, with a desire to research and develop machine learning solutions rather than simply implement them.
 
-Me mountain biking in New Zealand |  My lab puppy, Piper
-:-----------------------------:|:-------------------------:
-![](images/nz_bike.png)       |  ![](images/piper_pup.png)
+**Mountain biking in New Zealand** |  **My lab puppy, Piper**
+:---------------------------------:|:-------------------------:
+![](images/nz_bike.png)            |  ![](images/piper_pup.png)
+:---------------------------------:|:-------------------------:
+**Catan & Ice Cream<br>Two of my favorite things** | **LA Marathon**
+:---------------------------------:|:-------------------------:
+![](images/catan_and_ice_cream.png)| ![](images/la_marathon.png)
