@@ -22,13 +22,13 @@ August 2015 - May 2019
 # Professional Roles
 
 ## Optum
-### Data Scientist
+### Data Scientist II
 June 2019 - Present
-- Develop machine learning models in python to predict incidents and improve remediation when incidents do occur.
-- Utilize Docker, Jenkins, Kubernetes, and Openshift to deploy trained machine learning models.
-- Used Spark (specifically PySpark) to clean and create feature vectors from bank transaction and account activity logs and use these vectors with Spark’s MLlib to detect irregular account activity.
+- Currently building a time-series model that uses a development team’s previous update performance to predict the risk of a future proposed application update.
+- Set-up scrum team’s Jenkins environment and created customizable Jenkinsfiles used by team to deploy machine learning models to Kubernetes.
+- Primary programmer of a dozen Python scripts which detected suspicious activity in the payout of over one billion dollars of the HHS CARES Act Provider Relief Fund dispersed by Optum.
 - Contributed to and enhanced the code quality of a Cucumber smoke tests repo for 60+ APIs.
-- Prepped and presented a 60-minute talk on machine translation. The talk was first done for 50+ interns at a Technology Development Program event and then again for 60+ employees and executives at the company’s MinneAnalytics conference.
+- Prepped and presented a 60-minute talk on machine translation for 60+ employees and executives at the company’s MinneAnalytics conference.
 
 ### Data Science Intern
 June 2018 - August 2018

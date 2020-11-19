@@ -18,9 +18,17 @@ Durham, NC | lannersq@gmail.com
 ---
 
 # About Me
-My background is in mathematics, with a bachelors degree in applied math from [LMU](https://www.lmu.edu/) in Los Angeles. During my undergraduate studies, I became increasingly interested in NLP - particularly in the applications of machine learning in NLP. During this time, I studied the theory and math behind the concepts of deep learning and recurrent neural networks. Since graduating, I have become a strong full-stack machine learning engineer, with experience in data collection, cleaning, and analysis along with building, testing, deploying, and serving machine learning models.
+My formal background is in mathematics, with a BS in applied math from [Loyola Marymount University in Los Angeles](https://www.lmu.edu/). 
+Originally a pre-med student, I enjoy the medical field, but found myself much more interested in the analytical aspects of care.
+I have spent the past several years enhancing my technology skills, with an emphasis on natural language processing (NLP). 
+My career goals revolve around building data science and machine learning solutions in the field of health care. 
+As I pursue a graduate degree, I want to conduct research at the intersection of NLP and health care. 
+Specifically, in the coming years more textual data is going to become available as enhanced de-identification techniques<sup>[1](https://www.nature.com/articles/s41746-020-0258-y),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502465/)</sup> are developed.
+This data has the potential to improve medical care in areas such as personlized medicine and provider bias-detection (just to name a couple).
 
-I am hoping to pursue further education in the field of machine learning, with a desire to research and develop machine learning solutions rather than simply implement them.
+While my primary interest is in NLP, I am excited about the intersection od data science and health care in general. 
+Since graduating, I have become a strong full-stack data scientist, with experience in data collection, cleaning, and analysis along with building, testing, and deploying machine learning models.
+As a PhD applicant, I am hoping to use these hard-skills in a research setting to advance the state of advanced analytics in medical care.
 
 **Mountain biking in New Zealand** |  **My lab puppy, Piper**
 :---------------------------------:|:-------------------------:
