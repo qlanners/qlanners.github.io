@@ -23,7 +23,7 @@ Originally a pre-med student, I enjoy the medical field, but found myself much m
 I have spent the past several years enhancing my technology skills, with an emphasis on natural language processing (NLP). 
 My career goals revolve around building data science and machine learning solutions in the field of health care. 
 As I pursue a graduate degree, I want to conduct research at the intersection of NLP and health care. 
-Specifically, in the coming years more textual data is going to become available as enhanced de-identification techniques<sup>[1](https://www.nature.com/articles/s41746-020-0258-y),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502465/)</sup> are developed.
+Specifically, in the coming years more textual data is going to become available as enhanced de-identification techniques ([1](https://www.nature.com/articles/s41746-020-0258-y), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502465/)) are developed.
 This data has the potential to improve medical care in areas such as personlized medicine and provider bias-detection (just to name a couple).
 
 While my primary interest is in NLP, I am excited about the intersection od data science and health care in general. 
