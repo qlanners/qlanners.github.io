@@ -5,7 +5,7 @@ description: Collection of my relevant professional experiences and education.
 ---
 - [Home](../index.html)
 - [Research & Projects](research_and_projects.html)
-- [Resume](../quinn_resume.pdf)
+- [Résumé](../quinn_lanners_cv.pdf)
 - [Blog](https://medium.com/@lannersq)
 - [Git](https://github.com/qlanners)
 - [LinkedIn](https://www.linkedin.com/in/quinn-lanners/)

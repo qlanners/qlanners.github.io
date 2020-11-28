@@ -10,7 +10,7 @@ Durham, NC | lannersq@gmail.com
 
 - [Research & Projects](pages/research_and_projects.html)
 - [Education & Work Experience](pages/education_and_work_experience.html)
-- [Resume](quinn_resume.pdf)
+- [Résumé](quinn_lanners_cv.pdf)
 - [Blog](https://medium.com/@lannersq)
 - [Git](https://github.com/qlanners)
 - [LinkedIn](https://www.linkedin.com/in/quinn-lanners/)
