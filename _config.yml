@@ -2,8 +2,9 @@
 title: Srikar Katta
 email: srikar@temple.edu
 description: > # this means to ignore newlines until "baseurl:"
-  "Economics, Mathematics & Computer Science - Temple Univeristy \
-  Undergraduate Researcher, Data Science Institute at Temple University"
+  Economics, Mathematics & Computer Science - Temple University
+  
+  Undergraduate Researcher, Data Science Institute at Temple University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kattasa.github.io" # the base hostname & protocol for your site
 # google_scholar_id: XKCyZk0AAAAJ&hl
