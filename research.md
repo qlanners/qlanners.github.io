@@ -13,4 +13,4 @@ permalink: /research/
 #### Independent Projects
 * [Estimating the Effects of COVID-19 on the Economy and PM2.5 in California (Working Paper)](files/srikar_katta_effects_of_covid_co2_gdp.pdf)
 * [Turnover Analysis Case Study](files/srikar_katta_turnover_case_study.pdf)
-* Katta, S. (2019). Taking a Knee to Take a Stand: An Analysis of The Bhagavad Gita’s Application to the Take a Knee Movement. Perceptions, 5(1). https://doi.org/10.15367/pj.v5i1.153
+* [Taking a Knee to Take a Stand: An Analysis of The Bhagavad Gita’s Application to the Take a Knee Movement (Published Article).](https://doi.org/10.15367/pj.v5i1.153)
