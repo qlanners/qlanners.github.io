@@ -8,7 +8,7 @@ permalink: /research/
 * [Tipping Behavior at goPuff (Working Paper)](files/srikar_katta_gopuff_tipping.pdf)
 
 #### Neuroeconomics Lab
-* Characterizing the Links between Sociodemographic Variables, Social Preferences, and Susceptibility to Financial Fraud in Middle to Late Adulthood. Retrieved from osf.io/v357h
+* [Characterizing the Links between Sociodemographic Variables, Social Preferences, and Susceptibility to Financial Fraud in Middle to Late Adulthood.](osf.io/v357h)
 
 #### Independent Projects
 * [Estimating the Effects of COVID-19 on the Economy and PM2.5 in California (Working Paper)](files/srikar_katta_effects_of_covid_co2_gdp.pdf)
