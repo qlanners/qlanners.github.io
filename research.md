@@ -6,6 +6,7 @@ permalink: /research/
 
 #### Data Science Institute
 * [Tipping Behavior at goPuff (Working Paper)](files/srikar_katta_gopuff_tipping.pdf)
+* [Characterizing Social Networks Between Tax Experts](files/vertex_only_network.html)
 
 #### Neuroeconomics Lab
 * [Characterizing the Links between Sociodemographic Variables, Social Preferences, and Susceptibility to Financial Fraud in Middle to Late Adulthood.](osf.io/v357h)
