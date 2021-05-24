@@ -2,7 +2,7 @@
 layout: page
 title: Identifying Modifiable Factors to Moderate
   Risk Factors for Susceptibility to Financial Scams in Older Adults
-permalink: /research/katta_fraud
+permalink: katta_fraud
 ---
 
 Aim
