@@ -15,7 +15,7 @@ attempted to scam recipients into revealing credit card and social
 security numbers.
 
 ![Financial scam email at Temple University on April 24,
-2021.](files/temple_scam.png) Older adults are frequently the targets of
+2021.](files/fraud_plots/temple_scam.png) Older adults are frequently the targets of
 financial exploitation. With the growing population of older adults,
 understanding how to combat this problem is crucial. Prior work suggests
 that victims of financial exploitation are often from low socioeconomic
@@ -380,11 +380,6 @@ independent variable split at the median.
 Results
 =======
 
-<!-- ## Temporal Discounting -->
-<!-- Temporal discounting is a topic that details how people compare value in the future to value today. For example, the Temporal Discounting survey asked questions like, "do you prefer \$15 today or \$20 in 2 days?" The people who choose the "\$15 today" option are more impulsive and value instant gratification over long term gratification. Changing such behavior is very difficult and may be closely linked to financial scams as they often claim to offer instant gratification. I first explore whether this hypothesis is true and then investigate the role of different modifiable factors in moderating the relationship between impulsivity and risk of financial fraud. -->
-<!-- ```{r} -->
-<!-- moderator_plot(study_one, 'time_discounting', 'high_low_ss', title = 'The Relationship Between Impulsivity and Social Support', color_name = 'Social Support') -->
-<!-- ``` -->
 Trust and Financial Exploitation
 --------------------------------
 
@@ -425,9 +420,10 @@ because of differences in demographic factors.
     ##  Range:  
     ##  Limits:    0 --    1
 
-<img src="katta_final_files/figure-markdown_strict/trust_fraud_s12-1.png" width="100%" />
 
-<img src="katta_final_files/figure-markdown_strict/trust_fraud_anova_results-1.png" width="50%" /><img src="katta_final_files/figure-markdown_strict/trust_fraud_anova_results-2.png" width="50%" />
+<img src="files/fraud_plots/insensitivity_oafem_corr.png" width="100%" />
+
+<img src="files/fraud_plots/ss_health_anova1.png" width="50%" /><img src="files/fraud_plots/ss_health_anova2.png" width="50%" />
 
 Social Support and Financial Exploitation
 -----------------------------------------
