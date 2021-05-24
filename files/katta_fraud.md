@@ -457,7 +457,7 @@ social support in the high risk group is significantly greater for the
 less healthy than the healthy, recommending that improved health can
 benefit people in the low risk group but not the high risk group.
 
-<img src="katta_final_files/figure-markdown_strict/social_support_health-1.png" width="50%" /><img src="katta_final_files/figure-markdown_strict/social_support_health-2.png" width="50%" />
+<img src="files/fraud_plots/ss_ses_anova1.png width="50%" /><img src="files/fraud_plots/ss_hhi_anova2.png" width="50%" />
 
 Figure 3A displays how improved local income levels cannot moderate the
 relationship between risk of financial exploitation and social support
