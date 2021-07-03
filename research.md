@@ -8,6 +8,8 @@ permalink: /research/
 * [Tipping Behavior at goPuff (Working Paper)](files/srikar_katta_gopuff_tipping.pdf)
 * [Characterizing Social Networks Between Tax Experts](files/vertex_only_network.html)
 
+* [Occupational Injuries and Illnesses](files/Occupational Injuries - Created with VisMe)
+
 #### Neuroeconomics Lab
 * [Characterizing the Links between Sociodemographic Variables, Social Preferences, and Susceptibility to Financial Fraud in Middle to Late Adulthood.](files/katta_fraud.md)
 #### Independent Projects
