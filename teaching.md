@@ -4,27 +4,27 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**Courses I have taught at Temple University**
+**Undergraduate courses I have TA'd at Temple University**
 
-* Stat 9190, Analysis of causal mechanisms in Tech and Finance  (Spring 2021)
-* Stat 9190, Introduction to Machine Learning and AI  (Spring 2020)
-* Stat 3503/8109, Applied Statistics and Data Science  (Fall 2018, 2020)
-* Stat 9190, Design and Analysis of Experiments at Scale  (Spring 2019)
+* CIS 1051, Introduction to Problem Solving and Programming in Python (Spring 2020)
+* MATH 1013, Elements of Statistics and Data Science (Fall 2020)
 
-**Courses I have taught at Harvard University**
+**Graduate courses I have TA'd at Temple University**
+* STAT 3503/8109, Applied Statistics and Data Science (Fall 2021)
 
-* Stat 111, Introduction to Theoretical Statistics  (Spring 2010, 2011, 2012, 2013)
-* Stat 120, Introduction to Applied Bayesian Inference and Multilevel Models  (Fall 2014, 2016)
-* Stat 221, Statistical Computing and Learning  (Fall 2009, 2010, 2013, 2014, 2016)
-* Stat 230, Multivariate Statistical Analysis  (Spring 2009)
-* Stat 285, Statistical Machine Learning  (Spring 2010, 2011, 2013)
-* Stat 303, Teaching Seminar  (Spring 2012)
-* Stat 366, Introduction to Research  (Fall 2014, 2016; Spring 2015, 2017) 
-* Stat 385, Statistical Machine Learning Seminar  (Spring 2009, 2015)
-* Stat 388, Design and Analysis of Experiments at Scale  (Spring 2017)
-
-**Mini-courses and Tutorials**
-
-* Statistical methods for populations with interaction and interfering units. Tutorial at the Institute for Mathematics and its Applications, Minneapolis, MN  (2011)
-* Statistical elements of complex networks. Mini-course at the Social Networks Summer School, Whistler, Canada  (2010)
-* Statistical elements of complex networks. Mini-course at the New England Statistics Symposium, Cambridge, MA  (2010, with J Blitzstein)
+**Teaching Materials**
+* [Textbook](./files/main.pdf)
+* Notes
+	* [Lecture 2](./files/stat8109_notes/lecture02_notes.pdf)
+	* [Lecture 3](./files/stat8109_notes/lecture03_notes.pdf)
+	* [Lecture 4](./files/stat8109_notes/lecture04_notes.pdf)
+	* [Lecture 5](./files/stat8109_notes/lecture05_notes.pdf)
+	* [Lecture 6](./files/stat8109_notes/lecture06_notes.pdf)
+	* [Lecture 7](./files/stat8109_notes/lecture07_notes.pdf)
+	* [Lecture 8](./files/stat8109_notes/lecture08_notes.pdf)
+	* [Lecture 9](./files/stat8109_notes/lecture09_notes.pdf)	
+	* [Lecture 10](./files/stat8109_notes/lecture10_notes.pdf)	
+	* [Lecture 11](./files/stat8109_notes/lecture11_notes.pdf)	
+	* [Lecture 12](./files/stat8109_notes/lecture12_notes.pdf)	
+	* [Lecture 13](./files/stat8109_notes/lecture13_notes.pdf)	
+	* [Lecture 14](./files/stat8109_notes/lecture14_notes.pdf)
