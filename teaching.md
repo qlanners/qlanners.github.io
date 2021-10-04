@@ -13,7 +13,6 @@ permalink: /teaching/
 * STAT 3503/8109, Applied Statistics and Data Science (Fall 2021)
 
 **Teaching Materials**
-* [Textbook](./files/main.pdf)
 * Notes
 	* [Lecture 2](./files/stat8109_notes/lecture02_notes.pdf)
 	* [Lecture 3](./files/stat8109_notes/lecture03_notes.pdf)
