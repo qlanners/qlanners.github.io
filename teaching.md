@@ -14,7 +14,7 @@ permalink: /teaching/
 
 **Teaching Materials**
 * Notes
-	* [Lecture 2](./files/stat8109_notes/lecture02_notes.pdf)
+	<!-- * [Lecture 2](./files/stat8109_notes/lecture02_notes.pdf)
 	* [Lecture 3](./files/stat8109_notes/lecture03_notes.pdf)
 	* [Lecture 4](./files/stat8109_notes/lecture04_notes.pdf)
 	* [Lecture 5](./files/stat8109_notes/lecture05_notes.pdf)
@@ -26,4 +26,9 @@ permalink: /teaching/
 	* [Lecture 11](./files/stat8109_notes/lecture11_notes.pdf)	
 	* [Lecture 12](./files/stat8109_notes/lecture12_notes.pdf)	
 	* [Lecture 13](./files/stat8109_notes/lecture13_notes.pdf)	
-	* [Lecture 14](./files/stat8109_notes/lecture14_notes.pdf)
+	* [Lecture 14](./files/stat8109_notes/lecture14_notes.pdf) -->
+	* [R Programming](./files/stat8109_notes/02-r_programming.pdf)
+	* [Math Foundations](./files/stat8109_notes/03-math.pdf)
+	* [Probability](./files/stat8109_notes/04-probability.pdf)
+	* [Probabilistic Modeling and Likelihoods](./files/stat8109_notes/05-probabilistic_models.pdf)
+	* [Statistical Learning](./files/stat8109_notes/06-statistical_learning.pdf)
