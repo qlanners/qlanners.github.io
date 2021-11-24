@@ -37,3 +37,6 @@ permalink: /teaching/
 		- Mixture Models
 		- Using `R` for Probabilistic Modeling
 	* [Statistical Learning](./files/stat8109_notes/06-statistical_learning.pdf)
+	* [Point Estimation](./files/stat8109_notes/07-point_estimation.pdf)
+		- Method of Moments Estimation
+		- Maximum Likelihood Estimation
