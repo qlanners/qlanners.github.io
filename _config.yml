@@ -1,11 +1,11 @@
 # Site settings
-title: Srikar Katta 
-email: srikar.katta@duke.edu
+title: Quinn Lanners
+email: quinn.lanners@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
-  PhD in Computer Science
+  Biostatistics & Bioinformatics PhD
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://kattasa.github.io" # the base hostname & protocol for your site
-# google_scholar_id: XKCyZk0AAAAJ&hl
+url: "https://qlanners.github.io" # the base hostname & protocol for your site
+google_scholar_id: Cui5ysAAAAAJ
 # arxiv_url:  "https://arxiv.org/a/airoldi_e_1"
 # github_username:  airoldi
 # twitter_username:  eairoldi

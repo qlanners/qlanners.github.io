@@ -1,4 +1,4 @@
-Srikar's personal website
+Quinn's personal website
 =====================================
 This is my website, built from Edo Airoldi's custom Jekyll theme. From Edo:
 
