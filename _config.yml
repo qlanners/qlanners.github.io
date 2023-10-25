@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://qlanners.github.io" # the base hostname & protocol for your site
 google_scholar_id: Cui5ysAAAAAJ
 # arxiv_url:  "https://arxiv.org/a/airoldi_e_1"
- github_username:  qlanners
+github_username:  qlanners
 # twitter_username:  eairoldi
 orchid_id:  0000-0001-7401-9239
 
