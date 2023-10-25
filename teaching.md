@@ -4,39 +4,18 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**Undergraduate courses I have TA'd at Temple University**
 
-* CIS 1051, Introduction to Problem Solving and Programming in Python (Spring 2020)
-* MATH 1013, Elements of Statistics and Data Science (Fall 2020)
 
-**Graduate courses I have TA'd at Temple University**
-* STAT 3503/8109, Applied Statistics and Data Science (Fall 2021)
+*Teaching Assistant*, Software Tools for Data Science, Duke University, Durham, NC. Spring 2023.
 
-**Teaching Materials**
-* Notes
-	* [R Programming](./files/stat8109_notes/02-r_programming.pdf)
-		- Variables and Data Types
-		- Conditional Logic
-		- Functions
-		- Loops
-		- Visualizations with ggplot2
-	* [Math Foundations](./files/stat8109_notes/03-math.pdf)
-		- Sets, Functions, and Notation
-		- Set Operations
-		- Functions
-		- Derivatives, Derivative "Shortcuts," and the Chain Rule
-		- Finding Minima/Maxima
-		- Sums and Integration
-	* [Probability](./files/stat8109_notes/04-probability.pdf)
-		- Probability Basics
-		- Random Variables and Probability Distributions
-		- Named Distributions
-	* [Probabilistic Modeling and Likelihoods](./files/stat8109_notes/05-probabilistic_models.pdf)
-		- Empirical and Theoretical Distributions
-		- Likelihoods
-		- Mixture Models
-		- Using `R` for Probabilistic Modeling
-	* [Statistical Learning](./files/stat8109_notes/06-statistical_learning.pdf)
-	* [Point Estimation](./files/stat8109_notes/07-point_estimation.pdf)
-		- Method of Moments Estimation
-		- Maximum Likelihood Estimation
+*Teaching Assistant*, Statistical Program for Big Data, Duke University, Durham, NC. Fall 2022.
+
+*Teaching Assistant*, Data Analytics and Visualization, Trilogy Education Services, St. Paul, MN. Aug 2019 - Mar 2020.
+
+*Teaching Assistant*, Deep Learning, Loyola Marymount University, Los Angeles, CA. Fall 2018.
+
+*Tutor*, Calculus I,II, & III, Loyola Marymount University, Los Angeles, CA. Jan 2018 - Dec 2018.
+
+*Teaching Assistant*, Research & Exhibition, Loyola Marymount University, Los Angeles, CA. Fall 2017.
+
+*Teaching Assistant*, Introdution to Honors, Loyola Marymount University, Los Angeles, CA. Fall 2016
