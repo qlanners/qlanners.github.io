@@ -4,14 +4,50 @@ title: Research
 permalink: /research/
 ---
 
-**Data Science Institute**
-* [Estimating The Effect of COVID-19 on Tipping Behavior](files/srikar_katta_gopuff_tipping.pdf)
-* [Characterizing Social Networks Between Tax Experts](files/vertex_only_network.html)
+## Papers
 
-**Neuroeconomics Lab**
-* [Characterizing the Links between Sociodemographic Variables, Social Preferences, and Susceptibility to Financial Fraud in Middle to Late Adulthood.](files/katta_fraud.md)
+[*Working*] Harsh Parikh, Quinn Lanners, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander Vol-
+fovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. 
+[Link](https://arxiv.org/abs/2310.15333)
 
-**Independent Projects**
-* [Estimating the Effects of COVID-19 on the Economy and PM2.5 in California (Class Project)](files/srikar_katta_effects_of_covid_co2_gdp.pdf)
-* [Turnover Analysis Case Study](files/srikar_katta_turnover_case_study.pdf)
-* [Taking a Knee to Take a Stand: An Analysis of The Bhagavad Gita’s Application to the Take a Knee Movement (Published Article).](https://doi.org/10.15367/pj.v5i1.153) 
+Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
+causal inference. In Uncertainty in Artificial Intelligence, pages 1174–1184. PMLR, 2023.
+[Link](https://proceedings.mlr.press/v216/lanners23a.html)
+
+Samantha M McDonald, Emily K Augustine, Quinn Lanners, Cynthia Rudin, L Catherine Brinson, and Matthew L
+Becker. Applied machine learning as a driver for polymeric biomaterials design. Nature Communications, 14(1):4838,
+[Link](https://www.nature.com/articles/s41467-023-40459-8)
+
+Quinn Lanners and Thomas Laurent. Neural machine translation. Honors thesis, Loyola Marymount University, 2019.
+[Link](https://digitalcommons.lmu.edu/honors-thesis/201/#:~:text=Neural%20Machine%20Translation%20is%20the,translating%20between%20any%20two%20languages.)
+
+***
+
+## Conference Presentations
+Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
+causal inference. Presented at INFORMS Annual Meeting in Phoenix, AZ, USA, 2023.
+
+Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Matching using feature impor-
+tance: An auditable approach to causal inference. Presented at the 9th International Conference of Computational Social
+Science in Copenhagen, Denmark, 2023.
+
+Quinn Lanners. Neural machine translation. Presented at Optum/UHG/UHC Analytics Conference in Eden Prairie,
+MN, USA, 2019.
+
+Quinn Lanners and Lambert Doezema. The current state of atmospheric gas concentrations in california - as observed
+through data collected through nasa’s student airborne research program. Presented at the Southern California Confer-
+ences for Undergraduate Research at California State Polytechnic University, Pomona, 2017.
+
+***
+
+## Articles
+Neural Machine Translation: A guide to Neural Machine Translation using an Encoder Decoder
+structure with attention.
+[Link](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
+
+Deploying a Scikit-Learn Model on AWS Using SKLearn Estimators, Local Jupyter Notebooks, and the Terminal.
+[Link](https://medium.com/towards-data-science/deploying-a-scikit-learn-model-on-aws-using-sklearn-estimators-local-jupyter-notebooks-and-the-d94396589498)
+
+Choosing a Scikit-learn Linear Regression Algorithm. [Link](https://medium.com/towards-data-science/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5)
+
+Why You Should Know How to Deploy Your Models in the Cloud. [Link](https://medium.com/towards-data-science/why-you-should-know-how-to-deploy-your-models-in-the-cloud-41d1c85a8df0)
