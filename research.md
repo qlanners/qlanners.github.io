@@ -6,22 +6,24 @@ permalink: /research/
 
 ## Papers
 
-[*Working*] Harsh Parikh, Quinn Lanners, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander Vol-
+[*Working*] Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander Vol-
 fovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. 
 [Link](https://arxiv.org/abs/2310.15333)
 
-Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
+**Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
 causal inference. In Uncertainty in Artificial Intelligence, pages 1174–1184. PMLR, 2023.
 [Link](https://proceedings.mlr.press/v216/lanners23a.html)
 
-Samantha M McDonald, Emily K Augustine, Quinn Lanners, Cynthia Rudin, L Catherine Brinson, and Matthew L
+Samantha M McDonald, Emily K Augustine, **Quinn Lanners**, Cynthia Rudin, L Catherine Brinson, and Matthew L
 Becker. Applied machine learning as a driver for polymeric biomaterials design. Nature Communications, 14(1):4838,
 [Link](https://www.nature.com/articles/s41467-023-40459-8)
 
-Quinn Lanners and Thomas Laurent. Neural machine translation. Honors thesis, Loyola Marymount University, 2019.
+**Quinn Lanners** and Thomas Laurent. Neural machine translation. Honors thesis, Loyola Marymount University, 2019.
 [Link](https://digitalcommons.lmu.edu/honors-thesis/201/#:~:text=Neural%20Machine%20Translation%20is%20the,translating%20between%20any%20two%20languages.)
 
 ***
+
+<br>
 
 ## Conference Presentations
 Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
@@ -39,6 +41,8 @@ through data collected through nasa’s student airborne research program. Prese
 ences for Undergraduate Research at California State Polytechnic University, Pomona, 2017.
 
 ***
+
+<br>
 
 ## Articles
 Neural Machine Translation: A guide to Neural Machine Translation using an Encoder Decoder
