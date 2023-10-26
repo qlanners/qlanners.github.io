@@ -6,8 +6,8 @@ permalink: /research/
 
 ## Papers
 
-[*Working*] Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander Vol-
-fovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. 
+[*Working*] Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
+Alexander Volfovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. 
 [Link](https://arxiv.org/abs/2310.15333)
 
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
@@ -29,16 +29,16 @@ Becker. Applied machine learning as a driver for polymeric biomaterials design. 
 Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
 causal inference. Presented at INFORMS Annual Meeting in Phoenix, AZ, USA, 2023.
 
-Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Matching using feature impor-
-tance: An auditable approach to causal inference. Presented at the 9th International Conference of Computational Social
+Quinn Lanners, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Matching using feature importance: 
+An auditable approach to causal inference. Presented at the 9th International Conference of Computational Social
 Science in Copenhagen, Denmark, 2023.
 
 Quinn Lanners. Neural machine translation. Presented at Optum/UHG/UHC Analytics Conference in Eden Prairie,
 MN, USA, 2019.
 
 Quinn Lanners and Lambert Doezema. The current state of atmospheric gas concentrations in california - as observed
-through data collected through nasa’s student airborne research program. Presented at the Southern California Confer-
-ences for Undergraduate Research at California State Polytechnic University, Pomona, 2017.
+through data collected through nasa’s student airborne research program. Presented at the Southern California 
+Conferences for Undergraduate Research at California State Polytechnic University, Pomona, 2017.
 
 ***
 
