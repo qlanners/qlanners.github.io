@@ -19,6 +19,8 @@ My collection of teaching experiences have stressed the importance of *listening
 has a different background and brings different strengths to the table and the more I can connect with them the better I
 can understand how they learn and ultimately help them succeed.
 
+***
+
 *Teaching Assistant*, Software Tools for Data Science, Duke University, Durham, NC. Spring 2023.
 
 *Teaching Assistant*, Statistical Program for Big Data, Duke University, Durham, NC. Fall 2022.
