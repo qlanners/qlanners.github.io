@@ -3,11 +3,17 @@ layout: page
 title: Research
 permalink: /research/
 ---
+I research the use of machine learning to facilitate interpretable causal inference, with a particular focus
+on medical applications. My recent work includes estimating dynamic treatment regimes for ICU patients, developing a
+matching based method for observational causal inference, and reviewing machine learning in polymer biomaterials. My
+collaborations span biostatistics, computer science, statistics, and materials science.
+
+***
 
 ## Papers
 
-[*Working*] Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
-Alexander Volfovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. 
+Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
+Alexander Volfovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. [**Under Review**] 
 [Link](https://arxiv.org/abs/2310.15333)
 
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for

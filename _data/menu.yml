@@ -1,19 +1,11 @@
 - title: "Research"
   href: "/research/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "Professional Experience"
+  href: "/professional/"
 
 - title: "Teaching"
   href: "/teaching/"
 
-#- title: "Blog"
-#  href: "/blog/"
-
-#- title: "Miscellany"
-#  href: "/miscellany/"
-#  subcategories:
-#    - subtitle: "Item 1"
-#      subhref: "/miscellany/item-1/"
-#    - subtitle: "Item 2"
-#      subhref: "/miscellany/item-2/"
+- title: "CV"
+  href: "/cv/"
