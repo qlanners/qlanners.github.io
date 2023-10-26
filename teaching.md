@@ -15,9 +15,9 @@ In addition to teaching in an academic setting, I also currently work as a dog t
 In this role, I teach classes and 1-1 lessons, focusing on building a strong bond between dog and owner through positive 
 reinforcement training. 
 
-My collection of teaching experiences have stressed the importance of *listening* as a teacher. Each student (or dog) 
+My collection of teaching experiences have stressed the importance of *listening*. Each student (or dog) 
 has a different background and brings different strengths to the table and the more I can connect with them the better I
-can understand how they learn and ultimately help them grasp the material.
+can understand how they learn and ultimately help them succeed.
 
 *Teaching Assistant*, Software Tools for Data Science, Duke University, Durham, NC. Spring 2023.
 
