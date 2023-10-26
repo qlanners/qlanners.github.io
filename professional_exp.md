@@ -4,11 +4,6 @@ title: Professional Experience
 permalink: /professional/
 ---
 
-Prior to starting my Ph.D., I worked in industry as a data scientist at Optum. I functioned as an end-to-end machine 
-learning expert building and deploying machine learning models and automating the development team’s deployment pipeline.
-
-***
-
 **Duke University**
 Ph.D. Student | Durham, NC | Aug 2021 - Current 
 - Developed interpretable method for estimating dynamic treatment regimes that reduced the probability of an adverse 

@@ -6,7 +6,7 @@ permalink: /research/
 I research the use of machine learning to facilitate interpretable causal inference, with a particular focus
 on medical applications. My recent work includes estimating dynamic treatment regimes for ICU patients, developing a
 matching based method for observational causal inference, and reviewing machine learning in polymer biomaterials. My
-collaborations span biostatistics, computer science, statistics, and materials science.
+collaborations span statistics, computer science, medicine, and chemistry.
 
 ***
 
