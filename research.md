@@ -13,7 +13,7 @@ collaborations span statistics, computer science, medicine, and chemistry.
 ## Papers
 
 Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
-Alexander Volfovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. [**Under Review**] 
+Alexander Volfovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. [Accepted to AISTATS 2024] 
 [Link](https://arxiv.org/abs/2310.15333)
 
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
