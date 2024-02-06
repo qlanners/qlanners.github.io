@@ -4,7 +4,7 @@ title: Professional Experience
 permalink: /professional/
 ---
 
-<span style="font-size:2em;">**Duke University**</span>
+<span style="font-size:1.5em;">**Duke University**</span>
 
  **Ph.D. Student**, Durham, NC, Aug 2021 - Current
 
@@ -14,7 +14,7 @@ medical event by over 20 percentage points when operationalized on a real-world 
 100 times faster than existing benchmarks.
 
 
-<span style="font-size:2em;">**Optum**</span>
+<span style="font-size:1.5em;">**Optum**</span>
 
 **Data Scientist**, Eden Prairie, MN, Jun 2019 - Jul 2021
 
