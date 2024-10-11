@@ -4,20 +4,25 @@ title: Research
 permalink: /research/
 ---
 I research the use of machine learning to facilitate interpretable causal inference, with a particular focus
-on medical applications. My recent work includes estimating dynamic treatment regimes for ICU patients, developing a
-matching based method for observational causal inference, and reviewing machine learning in polymer biomaterials. My
-collaborations span statistics, computer science, medicine, and chemistry.
+on medical applications. My recent work includes estimating dynamic treatment regimes for ICU patients,
+developing an interpretable method for observational causal inference, and creating a variant of multilabel learning to im-
+prove the prediction of rare clinical events. My collaborations span statistics, computer science, medicine, and chemistry.
 
 ***
 
 ## Papers
 
-Harsh Parikh*, **Quinn Lanners***, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
-Alexander Volfovsky. Estimating trustworthy and safe optimal treatment regimes, 2023. [Accepted to AISTATS 2024] 
-[Link](https://arxiv.org/abs/2310.15333)
+**Quinn Lanners**\*, Qin Weng\*, Marie-Louise Meng, and Matthew M. Engelhard. Common Event Tethering to 
+Improve Prediction of Rare Clinical Events. In Conference on Uncertainty in Artificial Intelligence (UAI), 2024. [Spotlight]
+[Link](https://openreview.net/forum?id=wvrPP5lCh9)
+
+Harsh Parikh\*, **Quinn Lanners**\*, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
+Alexander Volfovsky. Safe and interpretable estimation of optimal treatment regimes. 
+In International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 238:2134-2142, 2024. 
+[Link](https://proceedings.mlr.press/v238/parikh24a.html)
 
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
-causal inference. In Uncertainty in Artificial Intelligence, pages 1174–1184. PMLR, 2023.
+causal inference. In Conference on Uncertainty in Artificial Intelligence (UAI), PMLR 216:1174–1184, 2023.
 [Link](https://proceedings.mlr.press/v216/lanners23a.html)
 
 Samantha M McDonald, Emily K Augustine, **Quinn Lanners**, Cynthia Rudin, L Catherine Brinson, and Matthew L
@@ -31,7 +36,32 @@ Becker. Applied machine learning as a driver for polymeric biomaterials design. 
 
 <br>
 
+## Short Papers
+Mohamed A. Radwan, Himaghna Bhattacharjee, **Quinn Lanners**, Jiasheng Zhang, Serkan Karakulak, Houssam Nassif, 
+and Murat Ali Bayir. Counterfactual evaluation of ads ranking models through domain adaptation. 
+Accepted to the Causality, Counterfactuals & Sequential Decision Making workshop at RecSys, 2024. 
+[Link](https://arxiv.org/abs/2409.19824)
+
+***
+
+<br>
+
 ## Conference Presentations
+**Quinn Lanners**, Harsh Parikh, Cynthia Rudin, Alexander Volfovsky, and Caleb Miles. Combining rct and observational
+study data in the presence of unmeasured confounding. Presented at the Joint Statistical Meetings in Portland,
+OR, USA, 2024.
+
+**Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Flexible almost-exact matching
+for trustworthy causal inference. Presented at the Joint Statistical Meetings in Portland, OR, USA, 2024.
+
+**Quinn Lanners**\*, Qin Weng\*, Marie-Louise Meng, and Matthew M Engelhard. Common event tethering to improve
+prediction of rare clinical events. Spotlight presentation at The 40th Conference on Uncertainty in Artificial Intelligence
+in Barcelona, Spain, 2024.
+
+Harsh Parikh\*, **Quinn Lanners**\*, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander
+Volfovsky. Estimating trustworthy and safe optimal treatment regimes for treating seizures in critically ill icu patients.
+Presented at Duke Health Data Science Showcase in Durham, NC, USA, 2023.
+
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
 causal inference. Presented at INFORMS Annual Meeting in Phoenix, AZ, USA, 2023.
 
@@ -61,3 +91,5 @@ Deploying a Scikit-Learn Model on AWS Using SKLearn Estimators, Local Jupyter No
 Choosing a Scikit-learn Linear Regression Algorithm. [Link](https://medium.com/towards-data-science/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5)
 
 Why You Should Know How to Deploy Your Models in the Cloud. [Link](https://medium.com/towards-data-science/why-you-should-know-how-to-deploy-your-models-in-the-cloud-41d1c85a8df0)
+
+\*<small>co-first author</small>
