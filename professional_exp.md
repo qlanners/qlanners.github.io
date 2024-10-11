@@ -14,6 +14,17 @@ medical event by over 20 percentage points when operationalized on a real-world 
 100 times faster than existing benchmarks.
 
 
+<span style="font-size:1.5em;">**Meta**</span>
+
+ **Research Scientist Intern**, Seattle, WA, May 2024 - Aug 2024 
+ 
+- Wrote an internal technical report detailing a domain-adapted model-based approach for offline counterfactual 
+evaluation of ranking models. Work accepted as short paper to the 2024 Causality, Counterfactuals, & Sequential 
+Decision-Making workshop at RecSys  and the 2024 Conference on Digital Experimentation @ MIT. 
+- Provided empirical and theoretical results showing the settings under which different variants of the proposed 
+approach are better than existing benchmarks.
+
+
 <span style="font-size:1.5em;">**Optum**</span>
 
 **Data Scientist**, Eden Prairie, MN, Jun 2019 - Jul 2021
