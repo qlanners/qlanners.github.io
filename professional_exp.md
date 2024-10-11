@@ -6,7 +6,7 @@ permalink: /professional/
 
 <span style="font-size:1.5em;">**Duke University**</span>
 
- **Ph.D. Student**, Durham, NC, Aug 2021 - Current
+ **Ph.D. Candidate**, Durham, NC, Aug 2021 - Current
 
 - Developed interpretable method for estimating dynamic treatment regimes that reduced the probability of an adverse 
 medical event by over 20 percentage points when operationalized on a real-world ICU dataset. 
