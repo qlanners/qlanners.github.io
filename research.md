@@ -13,21 +13,26 @@ prove the prediction of rare clinical events. My collaborations span statistics,
 ## Papers
 
 **Quinn Lanners**\*, Qin Weng\*, Marie-Louise Meng, and Matthew M. Engelhard. Common Event Tethering to 
-Improve Prediction of Rare Clinical Events. In Conference on Uncertainty in Artificial Intelligence (UAI), 2024. [Spotlight]
+Improve Prediction of Rare Clinical Events. In *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. [Spotlight]
 [Link](https://openreview.net/forum?id=wvrPP5lCh9)
 
 Harsh Parikh\*, **Quinn Lanners**\*, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
 Alexander Volfovsky. Safe and interpretable estimation of optimal treatment regimes. 
-In International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 238:2134-2142, 2024. 
+In *International Conference on Artificial Intelligence and Statistics (AISTATS)*, PMLR 238:2134-2142, 2024. 
 [Link](https://proceedings.mlr.press/v238/parikh24a.html)
 
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
-causal inference. In Conference on Uncertainty in Artificial Intelligence (UAI), PMLR 216:1174–1184, 2023.
+causal inference. In *Conference on Uncertainty in Artificial Intelligence (UAI)*, PMLR 216:1174–1184, 2023.
 [Link](https://proceedings.mlr.press/v216/lanners23a.html)
 
 Samantha M McDonald, Emily K Augustine, **Quinn Lanners**, Cynthia Rudin, L Catherine Brinson, and Matthew L
-Becker. Applied machine learning as a driver for polymeric biomaterials design. Nature Communications, 14(1):4838,
+Becker. Applied machine learning as a driver for polymeric biomaterials design. *Nature Communications*, 14(1):4838,
 [Link](https://www.nature.com/articles/s41467-023-40459-8)
+
+Marie-Louise Meng, Yuqi Li, Matthew Fuller, **Quinn Lanners**, Ashraf S Habib, Jerome J Federspiel, 
+Johanna Quist-Nelson, Svati H Shah, Michael Pencina, Kim Boggess, Vijay Krishnamoorthy, and Matthew Engelhard.
+Development and Validation of a Predictive Model for Maternal Cardiovascular Morbidity Events in Patients With 
+Hypertensive Disorders of Pregnancy. *Anesthesia & Analgesia*, 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/39504272/)
 
 **Quinn Lanners** and Thomas Laurent. Neural machine translation. Honors thesis, Loyola Marymount University, 2019.
 [Link](https://digitalcommons.lmu.edu/honors-thesis/201/#:~:text=Neural%20Machine%20Translation%20is%20the,translating%20between%20any%20two%20languages.)
