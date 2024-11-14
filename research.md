@@ -5,8 +5,8 @@ permalink: /research/
 ---
 I research the use of machine learning to facilitate interpretable causal inference, with a particular focus
 on medical applications. My recent work includes estimating dynamic treatment regimes for ICU patients,
-developing an interpretable method for observational causal inference, and creating a variant of multilabel learning to im-
-prove the prediction of rare clinical events. My collaborations span statistics, computer science, medicine, and chemistry.
+developing an interpretable method for observational causal inference, and creating a variant of multilabel learning 
+to improve the prediction of rare clinical events. My collaborations span statistics, computer science, medicine, and chemistry.
 
 ***
 
