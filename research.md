@@ -26,7 +26,7 @@ causal inference. In *Conference on Uncertainty in Artificial Intelligence (UAI)
 [Link](https://proceedings.mlr.press/v216/lanners23a.html)
 
 Samantha M McDonald, Emily K Augustine, **Quinn Lanners**, Cynthia Rudin, L Catherine Brinson, and Matthew L
-Becker. Applied machine learning as a driver for polymeric biomaterials design. *Nature Communications*, 14(1):4838,
+Becker. Applied machine learning as a driver for polymeric biomaterials design. *Nature Communications*, 14(1):4838, 2023.
 [Link](https://www.nature.com/articles/s41467-023-40459-8)
 
 Marie-Louise Meng, Yuqi Li, Matthew Fuller, **Quinn Lanners**, Ashraf S Habib, Jerome J Federspiel, 
