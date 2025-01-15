@@ -39,8 +39,6 @@ Hypertensive Disorders of Pregnancy. *Anesthesia & Analgesia*, 2022. [Link](http
 
 ***
 
-<br>
-
 ## Short Papers
 Mohamed A. Radwan, Himaghna Bhattacharjee, **Quinn Lanners**, Jiasheng Zhang, Serkan Karakulak, Houssam Nassif, 
 and Murat Ali Bayir. Counterfactual evaluation of ads ranking models through domain adaptation. 
@@ -49,41 +47,48 @@ Accepted to the Causality, Counterfactuals & Sequential Decision Making workshop
 
 ***
 
-<br>
-
 ## Conference Presentations
-**Quinn Lanners**, Harsh Parikh, Cynthia Rudin, Alexander Volfovsky, and Caleb Miles. Combining rct and observational
-study data in the presence of unmeasured confounding. Presented at the Joint Statistical Meetings in Portland,
-OR, USA, 2024.
+**Quinn Lanners**, Harsh Parikh, Cynthia Rudin, Alexander Volfovsky, and Srikar Katta. Almost-exact matching for
+interpretable and trustworthy causal inference. Presentation at the Joint Mathematical Meetings in Seattle, WA, USA, 2025.
 
-**Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Flexible almost-exact matching
-for trustworthy causal inference. Presented at the Joint Statistical Meetings in Portland, OR, USA, 2024.
+**Quinn Lanners**, Harsh Parikh, Cynthia Rudin, Alexander Volfovsky, and Caleb Miles. Combining rct and observational
+study data in the presence of unmeasured confounding. Presentation at the Joint Statistical Meetings in Portland,
+OR, USA, 2024.
 
 **Quinn Lanners**\*, Qin Weng\*, Marie-Louise Meng, and Matthew M Engelhard. Common event tethering to improve
 prediction of rare clinical events. Spotlight presentation at The 40th Conference on Uncertainty in Artificial Intelligence
 in Barcelona, Spain, 2024.
 
-Harsh Parikh\*, **Quinn Lanners**\*, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander
-Volfovsky. Estimating trustworthy and safe optimal treatment regimes for treating seizures in critically ill icu patients.
-Presented at Duke Health Data Science Showcase in Durham, NC, USA, 2023.
-
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
-causal inference. Presented at INFORMS Annual Meeting in Phoenix, AZ, USA, 2023.
+causal inference. Presentation at INFORMS Annual Meeting in Phoenix, AZ, USA, 2023.
 
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Matching using feature importance: 
-An auditable approach to causal inference. Presented at the 9th International Conference of Computational Social
+An auditable approach to causal inference. Presentation at the 9th International Conference of Computational Social
 Science in Copenhagen, Denmark, 2023.
 
-**Quinn Lanners** Neural machine translation. Presented at Optum/UHG/UHC Analytics Conference in Eden Prairie,
+**Quinn Lanners** Neural machine translation. Presentation at Optum/UHG/UHC Analytics Conference in Eden Prairie,
 MN, USA, 2019.
 
+***
+
+## Conference Posters
+**Quinn Lanners**, Harsh Parikh, Cynthia Rudin, and Alexander Volfovsky. Partial identification of heterogenous treatment
+effects when combining data from observational and experimental studies. Poster at the International Conference on
+Health Policy Statistics in San Diego, CA, USA, 2025.
+
+**Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Flexible almost-exact matching
+for trustworthy causal inference. Poster at the Joint Statistical Meetings in Portland, OR, USA, 2024.
+
+Harsh Parikh\*, **Quinn Lanners**\*, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and Alexander
+Volfovsky. Estimating trustworthy and safe optimal treatment regimes for treating seizures in critically ill icu patients.
+Poster at Duke Health Data Science Showcase in Durham, NC, USA, 2023.
+
 **Quinn Lanners** and Lambert Doezema. The current state of atmospheric gas concentrations in california - as observed
-through data collected through nasa’s student airborne research program. Presented at the Southern California 
+through data collected through nasa’s student airborne research program. Poster at the Southern California 
 Conferences for Undergraduate Research at California State Polytechnic University, Pomona, 2017.
 
 ***
 
-<br>
 
 ## Articles
 Neural Machine Translation: A guide to Neural Machine Translation using an Encoder Decoder
