@@ -32,7 +32,7 @@ Becker. Applied machine learning as a driver for polymeric biomaterials design. 
 Marie-Louise Meng, Yuqi Li, Matthew Fuller, **Quinn Lanners**, Ashraf S Habib, Jerome J Federspiel, 
 Johanna Quist-Nelson, Svati H Shah, Michael Pencina, Kim Boggess, Vijay Krishnamoorthy, and Matthew Engelhard.
 Development and Validation of a Predictive Model for Maternal Cardiovascular Morbidity Events in Patients With 
-Hypertensive Disorders of Pregnancy. *Anesthesia & Analgesia*, 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/39504272/)
+Hypertensive Disorders of Pregnancy. *Anesthesia & Analgesia*, 2024. [Link](https://pubmed.ncbi.nlm.nih.gov/39504272/)
 
 **Quinn Lanners** and Thomas Laurent. Neural machine translation. Honors thesis, Loyola Marymount University, 2019.
 [Link](https://digitalcommons.lmu.edu/honors-thesis/201/#:~:text=Neural%20Machine%20Translation%20is%20the,translating%20between%20any%20two%20languages.)
