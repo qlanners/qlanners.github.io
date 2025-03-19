@@ -51,6 +51,9 @@ Accepted to the Causality, Counterfactuals & Sequential Decision Making workshop
 **Quinn Lanners**, Harsh Parikh, Cynthia Rudin, Alexander Volfovsky, and Srikar Katta. Almost-exact matching for
 interpretable and trustworthy causal inference. Presentation at the Joint Mathematical Meetings in Seattle, WA, USA, 2025.
 
+**Quinn Lanners**, Harsh Parikh, Cynthia Rudin, and Alexander Volfovsky. Assessing robustness to unobserved confounding 
+by combining experimental and observational data. Presentation at INFORMS Annual Meeting in Seattle, WA, USA, 2024.
+
 **Quinn Lanners**, Harsh Parikh, Cynthia Rudin, Alexander Volfovsky, and Caleb Miles. Combining rct and observational
 study data in the presence of unmeasured confounding. Presentation at the Joint Statistical Meetings in Portland,
 OR, USA, 2024.
