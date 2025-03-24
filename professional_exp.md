@@ -8,21 +8,18 @@ permalink: /professional/
 
  **Ph.D. Candidate**, Durham, NC, Aug 2021 - Current
 
-- Developed interpretable method for estimating dynamic treatment regimes that reduced the probability of an adverse 
-medical event by over 20 percentage points when operationalized on a real-world ICU dataset. 
-- Engineered new method for large scale, computationally inexpensive, and interpretable causal inference that is over 
-100 times faster than existing benchmarks.
+- Developed an interpretable method for estimating dynamic treatment regimes that reduced the probability of an adverse medical event by over 20 percentage points when operationalized on a real-world ICU dataset. Work published at *AISTATS*.
+- Created a variant of multi-label learning optimized for rare event settings that improved prediction of cardiovascular adverse events in pregnancy by up to 10\%. Work published as a spotlight paper at *UAI*.    
+- Engineered a new method for large scale, computationally inexpensive, and interpretable causal inference that is over 100 times faster than existing benchmarks. Work published at *UAI*.
 
 
 <span style="font-size:1.5em;">**Meta**</span>
 
  **Research Scientist Intern**, Seattle, WA, May 2024 - Aug 2024 
  
-- Wrote an internal technical report detailing a domain-adapted model-based approach for offline counterfactual 
-evaluation of ranking models. Work accepted as short paper to the 2024 Causality, Counterfactuals, & Sequential 
-Decision-Making workshop at RecSys  and the 2024 Conference on Digital Experimentation @ MIT. 
-- Provided empirical and theoretical results showing the settings under which different variants of the proposed 
-approach are better than existing benchmarks.
+- Developed a domain-adapted, model-based approach for offline counterfactual evaluation of large-scale ad-ranking models, improving pre-deployment testing of ML systems. Work accepted at the 2024 *Causality, Counterfactuals \& Sequential Decision-Making Workshop* at *RecSys* and the 2024 *Conference on Digital Experimentation @ MIT*.
+- Designed and ran empirical analyses comparing multiple evaluation methods, identifying conditions where the proposed approach outperforms existing benchmarks.
+- Bridged observational causal inference and experimentation by enhancing offline evaluation techniques for models later tested via A/B experiments.
 
 
 <span style="font-size:1.5em;">**Optum**</span>
