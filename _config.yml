@@ -1,8 +1,8 @@
 # Site settings
 title: Quinn Lanners
-email: quinn.lanners@duke.edu
+email: lannersq@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Biostatistics & Bioinformatics PhD
+  Research Scientist
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://qlanners.github.io" # the base hostname & protocol for your site
 google_scholar_id: Cui5ysAAAAAJ

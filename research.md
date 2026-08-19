@@ -3,18 +3,25 @@ layout: page
 title: Research
 permalink: /research/
 ---
-I research the use of machine learning to facilitate interpretable causal inference, with a particular focus
-on medical applications. My recent work includes estimating dynamic treatment regimes for ICU patients,
-developing an interpretable method for observational causal inference, and creating a variant of multilabel learning 
-to improve the prediction of rare clinical events. My collaborations span statistics, computer science, medicine, and chemistry.
+<p>My research centers on leveraging machine learning to drive interpretable causal inference and robust decision-making in complex systems. 
+  While my academic roots are anchored in healthcare applications, such as estimating dynamic treatment regimes for ICU patients, 
+  developing interpretable methods for observational data, and predicting rare clinical events, my current work extends these principles 
+  to large-scale industry production environments, focusing on causal uplift modeling, advanced experimentation platforms, 
+and off-policy evaluation. My work bridges statistics, machine learning, and domain applications to build transparent, 
+high-impact systems.</p>
 
 ***
 
 ## Papers
 
+**Quinn Lanners**, Cynthia Rudin, Alexander Volfovsky, and Harsh Parikh. 
+Data Fusion for Partial Identification of Causal Effects. 
+In *Advances in Neural Information Processing Systems (NeurIPS)*, 2025. 
+[Link](https://proceedings.neurips.cc/paper_files/paper/2025/hash/dd4e79c2228c43954cc074abf2f85a07-Abstract-Conference.html)
+
 **Quinn Lanners**\*, Qin Weng\*, Marie-Louise Meng, and Matthew M. Engelhard. Common Event Tethering to 
 Improve Prediction of Rare Clinical Events. In *Conference on Uncertainty in Artificial Intelligence (UAI)*, 2024. [Spotlight]
-[Link](https://openreview.net/forum?id=wvrPP5lCh9)
+[Link](https://proceedings.mlr.press/v244/lanners24a.html)
 
 Harsh Parikh\*, **Quinn Lanners**\*, Zade Akras, Sahar F. Zafar, M. Brandon Westover, Cynthia Rudin, and 
 Alexander Volfovsky. Safe and interpretable estimation of optimal treatment regimes. 
@@ -24,6 +31,9 @@ In *International Conference on Artificial Intelligence and Statistics (AISTATS)
 **Quinn Lanners**, Harsh Parikh, Alexander Volfovsky, Cynthia Rudin, and David Page. Variable importance matching for
 causal inference. In *Conference on Uncertainty in Artificial Intelligence (UAI)*, PMLR 216:1174–1184, 2023.
 [Link](https://proceedings.mlr.press/v216/lanners23a.html)
+
+Yuqi Li, **Quinn Lanners**, and Matthew M. Engelhard. Double Variable Importance Matching to Estimate Distinct 
+Causal Effects on Event Probability and Timing. *arXiv* preprint arXiv:2602.05022, 2026.
 
 Samantha M McDonald, Emily K Augustine, **Quinn Lanners**, Cynthia Rudin, L Catherine Brinson, and Matthew L
 Becker. Applied machine learning as a driver for polymeric biomaterials design. *Nature Communications*, 14(1):4838, 2023.
