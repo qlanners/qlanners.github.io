@@ -13,6 +13,7 @@ permalink: /professional/
 
 - Develop targeted selection logic, model overlap frameworks, and surrogate models to optimize experimentation budgets. Through strategic allocation, these frameworks achieve a 70% reduction in Minimum Detectable Effect (MDE) for rare outcomes alongside a 3% boost in campaign performance.
 - Design dynamic calibration for send optimization and build exploration-based frameworks for off-policy offline evaluation, navigating the high costs of failure and strict physical constraints of the channel.
+- Partner closely with Growth Marketing, Direct Mail, and Product teams to identify strategic opportunities for model optimization, aligning causal research with key business goals and channel constraints.
 - Lead the migration of our Direct Mail uplift modeling codebase to a modern Metaflow and Python pipeline, achieving a 20x speedup in execution time and significantly reducing compute costs.
 
 <span style="font-size:1.5em;">**Meta**</span>
